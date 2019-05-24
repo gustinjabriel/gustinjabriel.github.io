@@ -46,4 +46,4 @@ exclude:
   - vendor
 
 # Theme
-theme: jekyll-theme-cayman
+theme: "ed."
